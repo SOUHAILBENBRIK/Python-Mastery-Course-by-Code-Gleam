@@ -104,10 +104,6 @@ Happy Coding! 👨‍💻💡
 
 Created with 💙 by the Code Gleam team.
 
-### Key Additions:
-1. **Repository Overview**: Covers the purpose, structure, and project details.
-2. **Getting Started Guide**: Instructions for setting up the repo.
-3. **Course Structure and Projects**: Lists the course modules and projects.
 4. **Community Section**: Highlights Python communities and forums.
 5. **Contributing Guidelines**: How to contribute to the repository.
 6. **Contact Information**: Directs users to Code Gleam for questions and support.
