@@ -72,7 +72,7 @@ Here's a quick overview of what you'll find in this repository:
 
 Go through the lessons folder sequentially and tackle the projects to apply what you've learned.
 
-🎥 **Follow Along on Code Gleam**  
+### 🎥 Follow Along on Code Gleam  
 
      - Subscribe to the Code Gleam YouTube Channel for updates on new videos about programming languages, frameworks, and computer science topics.  
      - Enjoy the latest news and funny videos as well!
