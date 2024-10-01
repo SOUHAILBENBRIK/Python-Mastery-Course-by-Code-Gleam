@@ -74,8 +74,8 @@ Go through the lessons folder sequentially and tackle the projects to apply what
 
 ### 🎥 Follow Along on Code Gleam  
 
-     - Subscribe to the Code Gleam YouTube Channel for updates on new videos about programming languages, frameworks, and computer science topics.  
-     - Enjoy the latest news and funny videos as well!
+   - Subscribe to the Code Gleam YouTube Channel for updates on new videos about programming languages, frameworks, and computer science topics.  
+   - Enjoy the latest news and funny videos as well!
 
 ## 🛠 Tools and Resources
 
