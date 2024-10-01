@@ -62,10 +62,10 @@ Here's a quick overview of what you'll find in this repository:
 ## 🚀 Getting Started
 
 1. Clone the Repository:
-   - git clone https://github.com/yourusername/python-mastery-course.git
+   - git clone https://github.com/SOUHAILBENBRIK/Python-Mastery-Course-by-Code-Gleam.git
 
 2. Navigate to the Project Folder:
-   - cd python-mastery-course
+   - cd Python-Mastery-Course-by-Code-Gleam
 
 
 ## Start Learning:
