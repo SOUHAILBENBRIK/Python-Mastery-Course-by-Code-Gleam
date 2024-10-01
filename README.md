@@ -1,26 +1,43 @@
 # Python Mastery Course by Code Gleam 🎥📚
 
-Welcome to the **Python Mastery Course** repository created by [Code Gleam](https://www.youtube.com/channel/CodeGleam) 🔥. This repository is designed to help you master Python from beginner to advanced levels through structured lessons, practical resources, and impactful projects.
+Welcome to the **Python Mastery Course** repository created by [Code Gleam](https://www.youtube.com/channel/CodeGleam) 🔥
+
+. This repository is designed to help you master Python from beginner to advanced levels.
+. It includes structured lessons, practical resources, and impactful projects.
 
 ## 📚 Course Overview
+
 Whether you're new to programming or looking to deepen your Python skills, this course will guide you through core concepts and real-world applications. We've structured the content into easy-to-follow lessons, each packed with interactive exercises and real projects to build your portfolio.
 
 ### 📅 Course Structure
-1. **Lesson 1 - Python Basics**
-   - Introduction to Python, installation, and setting up your environment.
-   - Syntax, variables, data types, and basic operations.
-2. **Lesson 2 - Control Flow and Loops**
-   - If-else statements, while loops, and for loops.
-3. **Lesson 3 - Functions and Modules**
+
+1. **Lesson 1 - Introduction to python**
+   - Understand Python basics, syntax, variables, and data types.
+2. **Lesson 2 - Data structures**
+   - Understand Lists, Tuples, Dictionaries, and Sets.
+3. **Lesson 3 - Control flow**
+   - Learn how to use if-else statements and loops.
+4. **Lesson 4 - Functions and modules**
+   - Understand how to define functions, use parameters, return values, and import modules.
+5. **Lesson 5 - File handling**
+   - Learn how to read from and write to files.
+6. **Lesson 6 - Error handling**
+   - Learn about exceptions and how to handle errors gracefully.
+7. **Lesson 7 - Object oriented programming(OOP)**
+   - Understand classes, objects, inheritance, and encapsulation.
+8. **Lesson 8 - Generators and iterators**
+   - Learn how to create and use generators for efficient iteration.
+9. **Lesson 9 - Lambda and comprehensions**
    - Defining functions, modules, and code reusability.
-4. **Lesson 4 - Data Structures**
-   - Lists, dictionaries, tuples, and sets.
-5. **Lesson 5 - Object-Oriented Programming (OOP)**
-   - Classes, inheritance, polymorphism, and encapsulation.
-6. **Lesson 6 - File Handling and Error Management**
-   - Reading, writing files, and managing exceptions.
+10. **Lesson 10 - Decorators and context managers**
+   - Learn how to use decorators to modify functions and context managers for resource management.
+11. **Lesson 11 - Web scraping basics**
+   - Learn how to scrape data from websites using BeautifulSoup.
+12. **Lesson 12 - Data analysis with pandas**
+   - Understand how to manipulate and analyze data using the Pandas library.
 
 ### 🎯 Projects Included
+
 1. **Project 1: To-Do List Application**
    - Create a simple command-line to-do list manager.
    - Learn file handling and basic user interactions.
@@ -34,46 +51,43 @@ Whether you're new to programming or looking to deepen your Python skills, this 
    - Automate data extraction from websites and save the output.
 
 ## 📁 Repository Contents
+
 Here's a quick overview of what you'll find in this repository:
 
-- `/lessons/` : Contains step-by-step tutorials for each lesson.
-- `/projects/` : Each folder represents a complete project with code and instructions.
-- `/resources/` : Additional materials like cheat sheets, helpful links, and reference guides.
+- `/lessons/`   : Contains step-by-step tutorials for each lesson.
+- `/projects/`  : Each folder represents a complete project with code and instructions.
+- `/resources/` : Additional materials like cheat sheets, helpful links and reference guides.
+- `/exercises/` : Contains coding exercises organized by difficulty, each with a problem statement, questions, and solutions.
 
 ## 🚀 Getting Started
+
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/python-mastery-course.git
+     git clone https://github.com/yourusername/python-mastery-course.git
 
-# Python Mastery Course
+2. **Navigate to the Project Folder:**
+     cd python-mastery-course
 
-## Navigate to the Project Folder:
-```bash
-cd python-mastery-course
-```
 
 ## Start Learning:
+
 Go through the lessons folder sequentially and tackle the projects to apply what you've learned.
 
 🎥 **Follow Along on Code Gleam**  
-We regularly post content that complements this course on the Code Gleam YouTube Channel. Subscribe to stay updated with new tutorials, coding challenges, and tech insights.
+
+     - Subscribe to the Code Gleam YouTube Channel for updates on new videos about programming languages, frameworks, and computer science topics.  
+     - Enjoy the latest news and funny videos as well!
 
 ## 🛠 Tools and Resources
+
 Throughout the course, we will use various Python tools and libraries. Below are some commonly used tools:
 
-- **Jupyter Notebook**: For interactive coding.
+
 - **VS Code**: The recommended code editor.
 - **Pandas**: Data manipulation and analysis.
 - **BeautifulSoup**: Web scraping.
 - **Flask**: For web development basics.
 
-## 🌐 Additional Learning Platforms:
-For more in-depth learning, check out these platforms:
 
-- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
-- [freeCodeCamp Python Tutorials](https://www.freecodecamp.org/learn/)
-- [Coursera Python Specialization](https://www.coursera.org/specializations/python)
-- [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/) for coding challenges.
 
 ## 🤝 Community and Support
 Python has one of the most active and supportive communities. Get help, share your progress, or find collaborators on these platforms:
@@ -103,8 +117,4 @@ For any queries or support, reach out via Email or leave a comment on our YouTub
 Happy Coding! 👨‍💻💡
 
 Created with 💙 by the Code Gleam team.
-
-4. **Community Section**: Highlights Python communities and forums.
-5. **Contributing Guidelines**: How to contribute to the repository.
-6. **Contact Information**: Directs users to Code Gleam for questions and support.
 
