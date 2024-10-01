@@ -61,10 +61,10 @@ Here's a quick overview of what you'll find in this repository:
 
 ## 🚀 Getting Started
 
-1. **Clone the Repository:
+1. Clone the Repository:
    - git clone https://github.com/yourusername/python-mastery-course.git
 
-2. **Navigate to the Project Folder:
+2. Navigate to the Project Folder:
    - cd python-mastery-course
 
 
