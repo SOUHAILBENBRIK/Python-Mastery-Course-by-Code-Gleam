@@ -2,8 +2,8 @@
 
 Welcome to the **Python Mastery Course** repository created by [Code Gleam](https://www.youtube.com/channel/CodeGleam) 🔥
 
-#### This repository is designed to help you master Python from beginner to advanced levels.
-#### It includes structured lessons, practical resources, and impactful projects.
+- This repository is designed to help you master Python from beginner to advanced levels.
+- It includes structured lessons, practical resources, and impactful projects.
 
 ## 📚 Course Overview
 
