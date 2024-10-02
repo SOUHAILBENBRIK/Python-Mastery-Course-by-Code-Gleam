@@ -30,11 +30,11 @@ Whether you're new to programming or looking to deepen your Python skills, this 
 9. **Lesson 9 - Lambda and comprehensions**
    - Defining functions, modules, and code reusability.
 10. **Lesson 10 - Decorators and context managers**
-   - Learn how to use decorators to modify functions and context managers for resource management.
+    - Learn how to use decorators to modify functions and context managers for resource management.
 11. **Lesson 11 - Web scraping basics**
-   - Learn how to scrape data from websites using BeautifulSoup.
+    - Learn how to scrape data from websites using BeautifulSoup.
 12. **Lesson 12 - Data analysis with pandas**
-   - Understand how to manipulate and analyze data using the Pandas library.
+    - Understand how to manipulate and analyze data using the Pandas library.
 
 ### 🎯 Projects Included
 
