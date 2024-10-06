@@ -56,7 +56,7 @@ Here's a quick overview of what you'll find in this repository:
 
 - `/lessons/`   : Contains step-by-step tutorials for each lesson.
 - `/projects/`  : Each folder represents a complete project with code and instructions.
-- `/resources/` : Additional materials like cheat sheets, helpful links and reference guides.
+- `/resources/` : Additional materials like cheat sheets.
 - `/exercises/` : Contains coding exercises organized by difficulty, each with a problem statement, questions, and solutions.
 
 ## 🚀 Getting Started
@@ -86,6 +86,17 @@ Throughout the course, we will use various Python tools and libraries. Below are
 - **Pandas**: Data manipulation and analysis.
 - **BeautifulSoup**: Web scraping.
 - **Flask**: For web development basics.
+
+
+## Useful Websites for Learning Python
+
+Here is a curated list of useful websites to help you learn Python:
+
+1. **[Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)** - The official Python tutorial, covering the basics and beyond.
+2. **[W3Schools Python Tutorial](https://www.w3schools.com/python/)** - Learn Python programming with easy-to-follow tutorials and examples.
+3. **[LearnPython.org](https://www.learnpython.org/)** - An interactive platform with short lessons and coding exercises.
+4. **[Python Developer Roadmap](https://roadmap.sh/python)** - A structured roadmap for learning Python as a developer.
+5. **[Reddit LearnPython Community](https://www.reddit.com/r/learnpython/)** - A community-driven platform for asking questions and learning from others.
 
 
 
