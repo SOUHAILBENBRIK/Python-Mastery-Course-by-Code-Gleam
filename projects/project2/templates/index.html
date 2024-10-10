@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Budget Tracker</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Personal Budget Tracker</h1>
+    <h2>Total: ${{ total }}</h2>
+    <a href="{{ url_for('add_expense') }}">Add New Expense</a>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Amount</th>
+                <th>Category</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for expense in expenses %}
+                <tr>
+                    <td>{{ expense['name'] }}</td>
+                    <td>${{ expense['amount'] }}</td>
+                    <td>{{ expense['category'] }}</td>
+                    <td>{{ expense['date'] }}</td>
+                    <td>
+                        <a href="{{ url_for('edit_expense', index=loop.index0) }}">Edit</a>
+                        <form action="{{ url_for('delete_expense', index=loop.index0) }}" method="POST" style="display:inline;">
+                            <button type="submit">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
