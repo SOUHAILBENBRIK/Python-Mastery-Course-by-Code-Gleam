@@ -48,7 +48,7 @@ Whether you're new to programming or looking to deepen your Python skills, this 
 
 3. **Project 3: Web Scraper**
    - Build a web scraper using Python libraries.
-   - Automate data extraction from websites and save the output.
+   - Automate data extraction from websites.
 
 ## 📁 Repository Contents
 
@@ -96,7 +96,7 @@ Here is a curated list of useful websites to help you learn Python:
 2. **[W3Schools Python Tutorial](https://www.w3schools.com/python/)** - Learn Python programming with easy-to-follow tutorials and examples.
 3. **[LearnPython.org](https://www.learnpython.org/)** - An interactive platform with short lessons and coding exercises.
 4. **[Python Developer Roadmap](https://roadmap.sh/python)** - A structured roadmap for learning Python as a developer.
-5. **[Reddit LearnPython Community](https://www.reddit.com/r/learnpython/)** - A community-driven platform for asking questions and learning from others.
+5. **[LeetCode Python Challenges](https://leetcode.com/)** - Practice Python problems to boost coding and interview skills.
 
 
 
@@ -105,16 +105,16 @@ Python has one of the most active and supportive communities. Get help, share yo
 
 - **Stack Overflow**: Ask questions and get answers from experts.
 - **Reddit**: Join the [r/learnpython](https://www.reddit.com/r/learnpython/) subreddit for discussion and learning.
-- **Discord**: Real-time chat with other Python enthusiasts.
+- **Discord**: [Python](https://discord.com/invite/python) Real-time chat with 170k plus Python enthusiasts.
 
 ## 🏆 Contributing
 We welcome contributions to enhance this course. Feel free to open an issue or create a pull request if you have ideas, fixes, or improvements.
 
 ### How to Contribute:
 1. **Fork this repository.**
-2. Create a new branch (`feature-branch`).
-3. Commit your changes.
-4. Open a pull request and describe your changes!
+2. **Create a new branch (`feature-branch`).**
+3. **Commit your changes.**
+4. **Open a pull request and describe your changes!**
 
 ## 💼 Why Choose This Course?
 - **Structured Learning Path** 🗂️
